@@ -2,7 +2,7 @@
 
 Syllabus del curso IIC2343 Arquitectura de Computadores para el semestre 2021-2. 
 
-El curso constará de 5 evaluaciones, tres interrogaciones y dos tareas, donde cada una tiene una ponderación de 20%, en las fechas indicadas.
+El curso constará de 5 evaluaciones, tres interrogaciones y tres tareas, en las fechas indicadas.
 
 ## Calendario evaluaciones 📄
 
