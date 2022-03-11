@@ -27,7 +27,7 @@ Para consultas de materia, ramo, tareas, etc. usaremos las [issues](https://gith
 | Susana | Figueroa | Ayudante | sfigueroa3@uc.cl |
 | Tomás | Contreras | Ayudante | tcontrerasc@uc.cl |
 | Sebastían | Ramos | Ayudante | ramos.sebastian1@uc.cl |
-| Nicoles | Larenas | Ayudante | nlarenasb@uc.cl |
+| Nicole | Larenas | Ayudante | nlarenasb@uc.cl |
 | Javiera | Fuentes | Ayudante | jfuentesg@uc.cl |
 | Tomás | Ebensperger | Ayudante | toebenspergerb@uc.cl |
 | Renato | Van de Wyngard | Ayudante | rvandew@uc.cl |
