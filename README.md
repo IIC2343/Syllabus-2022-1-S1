@@ -11,7 +11,7 @@ El curso constará de 5 evaluaciones, tres interrogaciones y dos tareas, donde c
 | I1 | 13-04 | 13-04 | ... |
 | I2 | 25-05 | 25-05 | ... |
 | I3 | 01-07 | 01-07 | ... |
-| T1 | 18-03 | 01-04 | ... |
+| T1 | 18-03 | 01-04 | [Enunciado](../../tree/master/Tareas/T1_arqui_enunciado_2022_1.pdf) |
 | T2 | 18-04 | 29-04 | ... |
 | T3 | 20-05 | 03-06 | ... |
 
