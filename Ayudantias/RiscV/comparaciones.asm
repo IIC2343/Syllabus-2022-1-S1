@@ -8,7 +8,7 @@
             la a0, Words
             lw a1, 0(a0)
             li a2, 882
-            li x0, 123123
+            li zero, 123123
             beq a1, a2, notEqual
             j end
 

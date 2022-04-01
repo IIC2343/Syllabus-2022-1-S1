@@ -5,7 +5,7 @@
     
 .text
     sum_squares: # suma el cuadrado de todos los numeros de 1 a n
-        prologo:
+        # prologo:
             addi sp sp -16
             sw s0 0(sp)
             sw s1 4(sp)
@@ -26,7 +26,7 @@
         loop_end:
             mv a0 s2
 
-        epilogo:
+        # epilogo:
             lw ra 12(sp)
             lw s0 0(sp)
             lw s1 4(sp)
