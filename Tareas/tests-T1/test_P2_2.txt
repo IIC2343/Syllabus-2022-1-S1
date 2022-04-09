@@ -1,0 +1,7 @@
+.data
+	# --- No modificar labels ---
+	A: .word 56 # indica el largo de una arista
+	B: .word 23 # indica el largo de una arista
+	D: .word 78 # es el angulo en sentido anti-horario entre los lados
+	# --- End no modificar labels ---
+	# de aca para abajo van sus variables en memoria

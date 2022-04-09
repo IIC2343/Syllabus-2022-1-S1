@@ -1,0 +1,8 @@
+.data
+	# --- No modificar labels ---
+	N1: .word 3 # entero >=3, indica el numero de vertices
+	C1: .word 2, 2, -3,  6, 8, -3,  4, 5, 7 # secuencia de N1*3 numeros, representa a los vertices
+	N2: .word 8 # entero >=3, indica el numero de vertices
+	C2: .word 9, 3, -1,  13, 3, -1,  13, 6, -1,  9, 6, -1,  9, 3, 3,  13, 3, 3,  13, 6, 3,  9, 6, 3
+	# --- End no modificar labels ---
+	# de aca para abajo van sus variables en memoria
