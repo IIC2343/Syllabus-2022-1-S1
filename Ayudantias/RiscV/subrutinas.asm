@@ -32,7 +32,7 @@
             lw s1 4(sp)
             lw s2 8(sp)
             addi sp sp 16
-            j ra
+            jr ra
 
     square:  # devuelve el cuadrado de un numero en a0
         prologo:
@@ -45,10 +45,10 @@
         epilogo:
             lw ra 0(sp)
             addi sp sp 4
-            j ra
+            jr ra
 
     __start:
         la t0 A
         lw a0 0(t0)
-        sum_squares
+        j sum_squares
 	
