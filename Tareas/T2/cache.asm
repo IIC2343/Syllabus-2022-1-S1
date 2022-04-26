@@ -53,7 +53,7 @@
     		j S2
     	S2:
     		beq t2, s4, end
-    		mv t6, t2
+    		mv t5, t2
     		li t6, 4
     		mul t5, t5, t6
     		add s3, s3, t5
