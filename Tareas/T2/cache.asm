@@ -42,6 +42,7 @@
     		mv t5, t1
     		li t6, 4
     		mul t5, t5, t6
+    		la s1, A1
     		add s1, s1, t5
     		lw t6, 0(s1)
     		add a0, a0, t6
@@ -56,6 +57,7 @@
     		mv t5, t2
     		li t6, 4
     		mul t5, t5, t6
+    		la s3, B1
     		add s3, s3, t5
     		lw t6, 0(s3)
     		add a1, a1, t6
