@@ -51,7 +51,7 @@
     		lw t6, 0(t6)
     		add a0, a0, t6
     		addi t1, t1, 1
-    		j S1
+    		j S2
     	S2:
     		beq t2, s4, end
     		mv t5, t2
@@ -70,7 +70,7 @@
     		lw t6, 0(t6)
     		add a1, a1, t6
     		addi t2, t2, 1 
-    		j S2
+    		j S1
 
     	end:
 	    	li a7, 10
