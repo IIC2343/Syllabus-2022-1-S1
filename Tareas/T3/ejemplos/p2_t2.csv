@@ -1,0 +1,7 @@
+P0;P1;P2;P3;0x0000;0x0001;0x0002;0x0003
+MOV A, (0x0000); MOV A, (0x0001); MOV A, (0x0002); MOV A, (0x0003); 4; 3; 2; 1
+MOV B, 2; MOV B, 0; MOV B, 1; MOV B, 3; 6; 5; 4; -2
+ADD A, B; SUB A, B; ADD A, B; SUB A, B;;;;
+NOP; MOV B, (0x0000); MOV B, (0x0003); NOP;;;;
+NOP; ADD A, B; ADD A, B; NOP;;;;
+MOV (0x0000), A; MOV (0x0001), A; MOV (0x0002), A; MOV (0x0003), A;;;;
